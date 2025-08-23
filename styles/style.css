@@ -1,0 +1,72 @@
+header{
+    margin-top:20px;
+    padding-top:10px;
+}
+
+.footer{
+    margin-top:6rem;
+    background-color:black;
+    color:lightgray;
+    padding-top:5rem;
+    padding-bottom:7rem;
+}
+
+.footer a{
+    color:gray;
+}
+.footer a:visited{
+    color:gray;
+}
+
+.footer a:hover{
+    color:white;
+}
+
+.container-40{
+    max-width:40rem;
+}
+
+.container-60{
+  max-width:60rem;
+}
+
+  header a{
+    border:none;
+  }
+
+  #site-map table{
+text-align:left;
+vertical-align:top;
+color:gray;
+  }
+
+  th, td{
+    padding-left:0.35em;
+    padding-right:0.35em;
+    padding-bottom:0.35em;
+    vertical-align:top;
+  }
+
+  footer ul{
+    list-style-type: none;
+    margin: 0px;
+    padding:0px;
+  }
+  footer li{
+    padding-bottom:0.35em;
+  }
+
+#back-to-top{
+  position: fixed;
+  bottom:1rem;
+  right:1rem;
+  border-radius: 0.25em;
+  border: 1px gray solid;
+  background-color: white;
+}
+
+@media screen and (min-width: 65rem) {
+#back-to-top{
+  right: 20%;
+}
+}
