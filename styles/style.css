@@ -70,3 +70,18 @@ color:gray;
   right: 20%;
 }
 }
+
+
+h1{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+h2{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color:rgb(192, 41, 39)
+}
